@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "arrayvec",
+        "decryptor",
+        "ecdh",
+        "ECIES",
+        "enode",
+        "Hmac",
+        "Keccak",
+        "keystream",
+        "pubk",
+        "Rlpx",
+        "secp",
+        "thiserror"
+    ]
+}
